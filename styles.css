@@ -1,0 +1,38 @@
+.body-class{ 
+    background-color:bisque;
+}
+.header-class{
+    background-color: beige;
+}
+h1{
+    color: black;
+}
+.nav-class{
+    background-color:darkslategrey;
+} 
+a{
+    color: antiquewhite;
+}
+a.active{
+    font-weight:bold;
+}
+.title-class{
+    color: darkolivegreen;
+}
+.section-title-class{
+    background-color: darkolivegreen;
+    color: antiquewhite;
+}
+.image-class{
+    border-style: dotted;
+}
+.form-class{
+    border-color:darkolivegreen ;
+    background-color: rgb(212, 122, 122);
+}
+.button-class{
+    background-color: blanchedalmond;
+}
+.footer-class{
+    background-color: rgb(176, 219, 107);
+}
